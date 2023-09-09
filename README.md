@@ -23,8 +23,8 @@
           
 <div align="center">
   <div align="center">
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=kethelynsantos&show_icons=true&count_private=true&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" alt="Kethelyn Santos github stats" /> 
-    <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethelynsantos&layout=compact&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=kethelynsantos&show_icons=true&count_private=true&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" alt="Kethelyn Santos github stats" /> 
+    <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethelynsantos&layout=compact&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" />
    </div>
  </div>
 
