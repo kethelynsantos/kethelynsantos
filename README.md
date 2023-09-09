@@ -4,11 +4,11 @@
 
 ### • Welcome to my Github profile 
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/36/73/3d/36733d81d5616c156f3065f8d53f08d0.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Systems Development - Universidade São Francisco <br>
- 💻 Interested in learning more about programming and web development.<br>
+ 💻 Interested in learning more about programming and web development <br>
 
 ### • Languages and Tools
 
