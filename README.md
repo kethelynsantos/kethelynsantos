@@ -8,7 +8,7 @@
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Systems Development - Universidade São Francisco <br>
- 💻 Interested in learning more about programming and web development <br>
+ 💻 Interested in learning more about web development <br>
 
 ### • Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
 
