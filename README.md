@@ -4,7 +4,7 @@
 
 ### • Welcome to my Github profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
 
  📚 Systems Development - Senai Roberto Mange <br> 
  🎓 Systems Development - Universidade São Francisco <br>
