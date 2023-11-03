@@ -2,23 +2,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/564x/44/f2/49/44f24938d20e6547babdd883cfbb0703.jpg">
+
 ### • Welcome to my Github profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/fd/e8/44/fde844a60269f7bc856f486cd3bf1719.jpg">
-
- 📚 Systems Development - Senai Roberto Mange <br> 
- 🎓 Systems Development - Universidade São Francisco <br>
- 💻 Interested in learning more about web development <br>
+📚 Systems Development - Senai Roberto Mange | 🎓 Systems Development - Universidade São Francisco | 💻 Interested in learning more
 
 ### • Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
 
-<div align="left">
-<p>
-    <a>
-        <img src="https://skillicons.dev/icons?i=py,java,js,react,html,css,github,mysql,figma,django&perline=5" width="38%" height="38%"/>
-    </a>
-</p>
-</div>
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+
 <br>       
           
 <div align="center">
