@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif">
+<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/564x/e8/6c/66/e86c665996b5b81e561887c57c519f6f.jpg">
 
 ### • Welcome to my Github profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 
-<br>       
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
           
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kethelynsantos&show_icons=true&count_private=true&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" alt="Kethelyn Santos github stats" /> 
