@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/564x/44/f2/49/44f24938d20e6547babdd883cfbb0703.jpg">
+<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif">
 
 ### • Welcome to my Github profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
